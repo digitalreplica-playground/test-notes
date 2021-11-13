@@ -1,3 +1,3 @@
-# Git Notes Template
+# Test Notes
 
-Use this template to create a git-notes repository.
+This is a simple repository to test automation
